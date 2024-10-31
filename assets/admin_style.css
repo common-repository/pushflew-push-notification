@@ -1,0 +1,35 @@
+.pushflew_outer_wrapper{
+	margin: 20px;
+}
+.pushflew_outer_wrapper #pushflew_info_alert{
+	display: none;
+	font-size: 16px;
+	color: #0085ba;
+}
+.pushflew_outer_wrapper p.pushflew_info_text{
+	font-size: 16px;
+	color: #d54e21;
+}
+.pushflew_outer_wrapper table{
+	width: 100%;
+}
+.pushflew_outer_wrapper table tr th,.pushflew_outer_wrapper table tr td{
+	text-align: left;
+	height: 40px;
+	font-size: 16px;
+}
+.pushflew_outer_wrapper table tr th,.pushflew_outer_wrapper table tr td img{
+	display: block;
+	margin-top: 15px;
+	width: 150px;
+	height: auto;
+}
+.pushflew_outer_wrapper table tr td.pushflew-email-confirm-wrapper p{
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0;
+}
+.pushflew_outer_wrapper table tr td.pushflew-email-confirm-wrapper #pushflew_email_input{
+	display: none;
+}
